@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zach, an <a href="https://linkedin.com/in/Zach">IT Professional</a>☺</h1>
+<h1>Hi, I'm Zach, an <a href="https://linkedin.com/in/zach-howard-53baa6245">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -11,4 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/Zach
+[linkedin]: https://linkedin.com/in/zach-howard-53baa6245
