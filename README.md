@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zach, an <a href="https://linkedin.com/in/zach-howard-53baa6245">IT Professional</a>☺</h1>
+<h1>Hi, I'm Zach, an <a href="https://linkedin.com/in/zach-howard-53baa6245">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
