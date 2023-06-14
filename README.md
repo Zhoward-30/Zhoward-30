@@ -6,9 +6,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Zhoward-30/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Zhoward-30/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Zhoward-30/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Zhoward-30/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Zhoward-30/azure-network-protocols)
+  - [Resetting Passwords and Unlocking Accounts](https://github.com/Zhoward-30/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/zach-howard-53baa6245
